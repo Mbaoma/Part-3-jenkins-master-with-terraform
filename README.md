@@ -19,3 +19,4 @@ A client wants to have Jenkins set up on AWS cloud. They wish to have full contr
 - Setup Route53 with a customized domain to transfer traffic to the ALB
 - Setup infrastructure monitoring with an aws service or an open source tool
 - Suprise us with something different, new and interesting :)
+
