@@ -32,4 +32,4 @@ Instances
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/49791498/173879192-51081939-8193-4ec5-93cd-1039567fb91c.png">
 
 ## Architecture Diagram
-![image](https://user-images.githubusercontent.com/49791498/180609963-2fa6df64-3e27-4a7e-9664-13e59102f50b.png)
+<img width="1037" alt="image" src="https://user-images.githubusercontent.com/49791498/180610288-4b4e64cd-d72f-457f-8ef9-287ed2645573.png">
