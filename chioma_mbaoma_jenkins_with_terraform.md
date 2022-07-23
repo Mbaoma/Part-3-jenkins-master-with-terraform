@@ -1,6 +1,3 @@
-<img width="675" alt="image" src="https://user-images.githubusercontent.com/49791498/173885804-83031b0d-9507-451e-95d7-d37ddd6a5f6f.png">
-
-
 ## Steps
 
 - Set up AWS credentials:
@@ -33,3 +30,6 @@ Apply complete! Resources: 4 added, 0 changed, 1 destroyed.
 ## Created Resources
 Instances
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/49791498/173879192-51081939-8193-4ec5-93cd-1039567fb91c.png">
+
+## Architecture Diagram
+![image](https://user-images.githubusercontent.com/49791498/180609963-2fa6df64-3e27-4a7e-9664-13e59102f50b.png)
